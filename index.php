@@ -15,9 +15,13 @@
 
     <!-- header -->
 
+    <!-- puntos -->
+    <div class="puntos-v">
+      <img src="src\images\puntos pag web press.png" alt="">
+    </div>
     <!-- video -->
     <section class="flex f-col f-center-primary">
-      <p class="font-size-50 intro-book video-txt center">
+      <p class="font-size-3 intro-book video-txt center">
         Empresa Tlaxcalteca
         comprometida con nuestros
         clientes
@@ -29,7 +33,10 @@
         allowfullscreen></iframe>
 
     </section>
-
+    <!-- puntos -->
+    <div class="puntos-h">
+      <img src="src\images\puntos pag web press.png" alt="">
+    </div>
     <br>
     <section>
 
@@ -58,32 +65,69 @@
     </section>
     <!-- seccion de 3 fotos -->
     <section>
-        <div class="background_red flex f-wrap wrap_desk f-center-primary ">
-          <div class="division_section"></div>
-          <div class="flex f-col f-center-primary text-align-center width_30">
-            <img class="round_img" src="src/images/magnifier.jpg" alt="" />
-            <p class="font_size_40">Servicios</p>
-            <p class="">
-              Impresión offset hasta 6 colores en linea más barniz
-            </p>
-          </div>
-
-          <div class="flex f-col f-center-primary text-align-center width_30">
-            <img class="round_img" src="src/images/speedmaster.jpg" alt="" />
-            <p class="font_size_40">Servicios</p>
-            <p class="intro_light_reg width_30">
-              Equipo de vanguardia y técnologia de punta.
-            </p>
-          </div>
-
-          <div class="flex F-col f-center-primary text-align-center width_30">
-            <img class="round_img" src="src/images/group.jpeg" alt="" />
-            <p class="font_size_40">Responsabilidad social</p>
-            <p class="intro_light_reg width_30">
-              Valor humano, trato personal e integridad.
-            </p>
-          </div>
+      <div class="background_red flex f-wrap wrap_desk f-center-primary f-center-cross pading-red-back title-white">
+        <div class="division_section"></div>
+        <div class="flex f-col f-center-primary f-center-cross text-align-center round-img-margin container-2">
+          <img class="round_img" src="src/images/magnifier.jpg" alt="" />
+          <p class="font-size-4 ">Servicios</p>
+          <p class="font-size-2">
+            Impresión offset hasta 6 colores en linea más barniz
+          </p>
         </div>
+
+        <div class="flex f-col f-center-primary f-center-cross text-align-center round-img-margin container-2">
+          <img class="round_img" src="src/images/speedmaster.jpg" alt="" />
+          <p class="font-size-4 ">Servicios</p>
+          <p class="intro_light_reg font-size-2">
+            Equipo de vanguardia y técnologia de punta.
+          </p>
+        </div>
+
+        <div class="flex f-col f-center-primary f-center-cross text-align-center round-img-margin container-2">
+          <img class="round_img" src="src/images/group.jpeg" alt="" />
+          <p class="font-size-4 ">Responsabilidad social</p>
+          <p class="intro_light_reg font-size-2 ">
+            Valor humano, trato personal e integridad.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- carrusel -->
+    <section>
+      <p class="intro-regular font-size-5 text-align-center title-2">
+        Articulos
+      </p>
+      <p class="myriad-pro-regular font-size-2 text-align-center title-2">Etiquetas, Empaques, Papeleria,
+        Diseño
+        editorial,
+        Producción Publicitaria.</p>
+      <!-- puntos -->
+      <div class="puntos-h">
+        <img src="src\images\puntos pag web press.png" alt="">
+      </div>
+      <div class="container">
+        <div class="flex f-wrap f-center-primary f-center-cross container">
+          <div><img class="articulos" src="src\images\botella-1.png" alt=""></div>
+          <div><img class="articulos" src="src\images\aceite -1.png" alt=""></div>
+          <div><img class="articulos" src="src\images\frasco de chiles.png" alt=""></div>
+          <div><img class="articulos" src="src\images\caja2 -1.png " alt=""></div>
+        </div>
+        <div class="puntos-h right"> <!-- puntos -->
+          <img src="src\images\puntos pag web press.png" alt="">
+        </div>
+      </div>
+      <!-- puntos -->
+    </section>
+
+    <!-- slogan -->
+    <section>
+      <div class="flex f-col">
+        <div class="myriad-pro-italic font-size-7 text-align-center title-2">"Las mejores ideas comienzan en papel"
+          <P class="myriad-pro-italic font-size-4 text-align-right title-3">Grupo Pressmedia</P>
+        </div>
+      </div>
+
+    </section>
   </div>
 </body>
 

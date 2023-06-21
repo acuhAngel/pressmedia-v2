@@ -8,21 +8,72 @@
     src: url(../fonts/Intro\ Light\ Regular.otf);
 }
 
-:root {
-    --title-txt-color: #8F8E8B;
-    --subtitle-txt-color: #908E8E;
-    --paragraph-txt-color: #343545;
+@font-face {
+    font-family: 'Intro Regular';
+    src: url(../fonts/Intro\ Regular.otf);
+}
 
+@font-face {
+    font-family: 'Myriad Pro Regular';
+    src: url(../fonts/Myriad\ Pro\ Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Myriad Pro italic';
+    src: url(../fonts/MyriadPro-CondIt.otf);
+}
+
+
+:root {
+    --title-1-color: #8F8E8B;
+    --title-2-color: #908E8E;
+    --title-3-color: #4E4E4E;
+    --title-white: #ffffff;
+    --paragraph-1-color: #343545;
+
+}
+
+/* color de textos */
+.title-1 {
+    color: var(--title-1-color);
+}
+
+.title-2 {
+    color: var(--title-2-color);
+}
+
+.title-3 {
+    color: var(--title-3-color);
+}
+
+.title-white {
+    color: var(--title-white);
+}
+
+.paragraph-1 {
+    color: var(--paragraph-1-color);
 }
 
 
 /* tipo de fuente */
+.myriad-pro-regular {
+    font-family: 'Myriad Pro Regular';
+}
+
+.myriad-pro-italic {
+    font-family: 'Myriad Pro italic';
+}
+
 .intro-book {
     font-family: 'Intro Book';
 }
 
 .intro-light {
     font-family: 'Intro Light';
+}
+
+.intro-regular {
+    font-family: 'Intro Regular';
 }
 
 
@@ -34,4 +85,32 @@
 
 .font-size-50 {
     font-size: 50px;
+}
+
+.font-size-2 {
+    font-size: 2rem;
+}
+
+.font-size-3 {
+    font-size: 3rem;
+}
+
+.font-size-4 {
+    font-size: 4rem;
+}
+
+.font-size-5 {
+    font-size: 5rem;
+}
+
+.font-size-6 {
+    font-size: 6rem;
+}
+
+.font-size-7 {
+    font-size: 7rem;
+}
+
+.font-size-8 {
+    font-size: 8rem;
 }
