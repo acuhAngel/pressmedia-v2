@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Intro Book';
+    src: url(../fonts/Intro\ Book\ Regular.otf);
+}
+
+@font-face {
+    font-family: 'Intro Light';
+    src: url(../fonts/Intro\ Light\ Regular.otf);
+}
+
+:root {
+    --title-txt-color: #8F8E8B;
+    --subtitle-txt-color: #908E8E;
+    --paragraph-txt-color: #343545;
+
+}
+
+
+/* tipo de fuente */
+.intro-book {
+    font-family: 'Intro Book';
+}
+
+.intro-light {
+    font-family: 'Intro Light';
+}
+
+
+/* tamaños de fuente */
+
+.font-size-38 {
+    font-size: 38px;
+}
+
+.font-size-50 {
+    font-size: 50px;
+}

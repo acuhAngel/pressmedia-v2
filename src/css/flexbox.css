@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+}
+
+.f-col {
+    flex-direction: column;
+}
+
+.f-center-primary {
+    justify-content: center;
+}
+
+.f-center-secondary {
+    align-items: center;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
