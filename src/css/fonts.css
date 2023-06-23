@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: 'Intro Book Alt Regular';
+    src: url(../fonts/Intro\ Book\ Alt\ Regular.otf);
+}
+
+@font-face {
     font-family: 'Intro Light';
     src: url(../fonts/Intro\ Light\ Regular.otf);
 }
@@ -11,6 +16,41 @@
 @font-face {
     font-family: 'Intro Regular';
     src: url(../fonts/Intro\ Regular.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond';
+    src: url(../fonts/Intro\ Cond.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Alt';
+    src: url(../fonts/Intro\ Cond\ Alt.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Bold';
+    src: url(../fonts/Intro\ Cond\ Bold.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Light';
+    src: url(../fonts/Intro\ Cond\ Light.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Thin';
+    src: url(../fonts/Intro\ Cond\ Thin.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Semibold Italic';
+    src: url(../fonts/Intro\ Cond\ SemiBold\ Italic.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Semibold Alt';
+    src: url(../fonts/Intro\ Cond\ SemiBold\ Alt.otf);
 }
 
 @font-face {
@@ -28,8 +68,11 @@
     --title-1-color: #8F8E8B;
     --title-2-color: #908E8E;
     --title-3-color: #4E4E4E;
+    --title-4-color: #9C2222;
+    --title-5-color: #928f8f;
     --title-white: #ffffff;
     --paragraph-1-color: #343545;
+    --datos: #666;
 
 }
 
@@ -46,12 +89,24 @@
     color: var(--title-3-color);
 }
 
+.title-5 {
+    color: var(--title-5-color);
+}
+
 .title-white {
     color: var(--title-white);
 }
 
+.datos-txt {
+    color: var(--datos);
+}
+
 .paragraph-1 {
     color: var(--paragraph-1-color);
+}
+
+.title-red {
+    color: var(--title-4-color);
 }
 
 
@@ -68,12 +123,44 @@
     font-family: 'Intro Book';
 }
 
+.intro-book-alt-regular {
+    font-family: 'Intro Book Alt Regular';
+}
+
 .intro-light {
     font-family: 'Intro Light';
 }
 
 .intro-regular {
     font-family: 'Intro Regular';
+}
+
+.intro-cond {
+    font-family: 'Intro Cond';
+}
+
+.intro-cond-alt {
+    font-family: 'Intro Cond Alt';
+}
+
+.intro-cond-bold {
+    font-family: 'Intro Cond Bold';
+}
+
+.intro-cond-light {
+    font-family: 'Intro Cond Light';
+}
+
+.intro-cond-thin {
+    font-family: 'Intro Cond Thin';
+}
+
+.intro-cond-semibold-italic {
+    font-family: 'Intro Cond Semibold Italic';
+}
+
+.intro-cond-semibold-alt {
+    font-family: 'Intro Cond Semibold Alt';
 }
 
 
@@ -89,6 +176,10 @@
 
 .font-size-2 {
     font-size: 2rem;
+}
+
+.nav-font-size-2 {
+    font-size: 2rem !important;
 }
 
 .font-size-3 {
@@ -113,4 +204,35 @@
 
 .font-size-8 {
     font-size: 8rem;
+}
+
+.font-size-10 {
+    font-size: 10rem;
+}
+
+.font-size-12 {
+    font-size: 12rem;
+}
+
+
+/* weigth */
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.font-weight-800 {
+    font-weight: 800;
+}
+
+.font-weight-900 {
+    font-weight: 900;
 }
