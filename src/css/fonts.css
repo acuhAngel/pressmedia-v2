@@ -9,6 +9,11 @@
 }
 
 @font-face {
+    font-family: 'Intro Bold Alt Regular';
+    src: url(../fonts/Intro\ Bold\ Alt\ Regular.otf);
+}
+
+@font-face {
     font-family: 'Intro Light';
     src: url(../fonts/Intro\ Light\ Regular.otf);
 }
@@ -41,6 +46,11 @@
 @font-face {
     font-family: 'Intro Cond Thin';
     src: url(../fonts/Intro\ Cond\ Thin.otf);
+}
+
+@font-face {
+    font-family: 'Intro Cond Thin Alt';
+    src: url(../fonts/Intro\ Cond\ Thin\ Alt.otf);
 }
 
 @font-face {
@@ -127,6 +137,10 @@
     font-family: 'Intro Book Alt Regular';
 }
 
+.intro-bold-alt-regular {
+    font-family: 'Intro Book Alt Regular';
+}
+
 .intro-light {
     font-family: 'Intro Light';
 }
@@ -153,6 +167,10 @@
 
 .intro-cond-thin {
     font-family: 'Intro Cond Thin';
+}
+
+.intro-cond-thin-alt {
+    font-family: 'Intro Cond Thin Alt';
 }
 
 .intro-cond-semibold-italic {

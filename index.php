@@ -22,8 +22,8 @@
     <div class="header desk">
       <?php include('views/elements/header_desk.php') ?>
     </div>
-    <div class="contrainer">
-      <p class="title_label">
+    <div class="container flex f-justify-end center">
+      <p class="title_label center">
         <?php echo $title ?>
       </p>
     </div>

@@ -73,8 +73,7 @@
 
         <div class="flex mobile-center">
           <div class="check"><img src="src\images\checkbox.png" alt=""></div>
-          <div class="intro-cond-alt font-size-5 ">
-            Trabajo en equipo
+          <div class="intro-cond-alt font-size-5 no-wrap">Trabajo en equipo
           </div>
         </div>
 
@@ -87,8 +86,7 @@
 
         <div class="flex mobile-center">
           <div class="check"><img src="src\images\checkbox.png" alt=""></div>
-          <div class="intro-cond-alt font-size-5 overflow ">
-            Responsabilidad social
+          <div class="intro-cond-alt font-size-5 no-wrap ">Responsabilidad social
           </div>
         </div>
 
@@ -168,10 +166,16 @@
         <div class="text-align-center flex_item_50">
 
           <p class="intro-cond-semibold-alt font-size-3 text-align-center">
+            Valoramos el talento, la creatividad y la
+            dedicación de las mujeres
+            que forman parte de nuestro equipo.
+          </p>
+          <p class="intro-light-regular font-size-2 center_text_box">
             Reconocemos su contribución esencial al éxito
             de nuestra empresa y al desarrollo de
             nuestra industria.
           </p>
+          <br>
           <p class="intro-light-regular font-size-2 center_text_box">
             comprometidos a promover la igualdad de
             oportunidades, la conciliación laboral y familiar
@@ -183,7 +187,7 @@
         <img class="flex_item_50 flex-img" src="src\images\PERSONAL EN LA MESA.png" alt="">
       </div>
       <div class="flex f-wrap ">
-        <img class="flex_item_50 flex-img" src="src\images\PERSONA SOLA (1).png" alt="">
+        <img class="flex_item_50 flex-img-3" src="src\images\PERSONA SOLA (1).png" alt="">
         <div class=" text_align_center flex_item_50">
           <p class="intro-cond-semibold-alt font-size-3">
             Comprometidos con

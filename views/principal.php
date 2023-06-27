@@ -6,9 +6,10 @@
 
       <div class="vanguardia">
         Vanguardia &nbsp
-        <span class="letra_pequeña intro-book-alt-regular">en servicios</span>Graficos
+        <span class="letra_pequeña intro-book-alt-regular no-wrap"><br>en servicios</span><span
+          class="font-size-7 margin_0 intro-cond-semibold-alt">Graficos</span>
       </div>
-      <div class="descripvan centrado">
+      <div class="intro-cond-thin-alt descripvan centrado">
         Empresa especializada en servicio de diseño e impresión a la vanguardia,
         con soluciones
       </div>
@@ -29,10 +30,10 @@
         clientes
       </p>
     </div>
-    <iframe src="https://www.youtube.com/embed/7DBIR30ks64" title="YouTube video player" class="center video"
+    <!-- <iframe src="https://www.youtube.com/embed/7DBIR30ks64" title="YouTube video player" class="center video"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
+      allowfullscreen></iframe> -->
 
   </section>
   <!-- puntos -->
@@ -69,27 +70,27 @@
   <!-- seccion de 3 fotos -->
   <section>
     <div class="background_red flex f-wrap wrap_desk f-center-primary f-center-cross pading-red-back title-white">
-      <div class="division_section"></div>
+
       <div class="flex f-col f-center-primary f-center-cross text-align-center round-img-margin container-2">
         <img class="round_img" src="src/images/magnifier.jpg" alt="" />
-        <p class="font-size-4 servicios">Servicios</p>
-        <p class="font-size-2">
+        <p class="font-size-4 servicios intro-cond-alt">Servicios</p>
+        <p class="font-size-2 intro-light">
           Impresión offset hasta 6 colores en linea más barniz
         </p>
       </div>
 
       <div class="flex f-col f-center-primary f-center-cross text-align-center round-img-margin container-2">
         <img class="round_img" src="src/images/speedmaster.jpg" alt="" />
-        <p class="font-size-4 servicios">infraestructura</p>
-        <p class="intro_light_reg font-size-2">
+        <p class="font-size-4 servicios servicios intro-cond-alt">Infraestructura</p>
+        <p class="intro-light font-size-2">
           Equipo de vanguardia y técnologia de punta.
         </p>
       </div>
 
       <div class="flex f-col f-center-primary f-center-cross text-align-center round-img-margin container-2">
         <img class="round_img" src="src/images/group.jpeg" alt="" />
-        <p class="font-size-4 servicios">Responsabilidad social</p>
-        <p class="intro_light_reg font-size-2 ">
+        <p class="font-size-4 servicios servicios intro-cond-alt">Responsabilidad social</p>
+        <p class="intro-light font-size-2 ">
           Valor humano, trato personal e integridad.
         </p>
       </div>
@@ -97,7 +98,7 @@
 
   </section>
   <div class="division"></div>
-  <!-- carrusel -->
+
   <section>
     <p class="intro-regular font-size-5 text-align-center title-2">
       Articulos
@@ -124,6 +125,7 @@
     </div>
 
   </section>
+  <div class="division"></div>
   <div class="division"></div>
   <!-- slogan -->
   <section>

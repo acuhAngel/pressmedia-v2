@@ -81,9 +81,9 @@
     <img src="src\images\puntos pag web press.png" alt="">
   </div>
 
-  <div class="division"></div>
+  <div class="division desk"></div>
 
-  <div class="division"></div>
+  <div class="division desk"></div>
   <div class="division"></div>
 
 

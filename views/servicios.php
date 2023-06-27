@@ -9,19 +9,20 @@
       <div class="flex_item_50">
         <img class="width_100 flex-img-2" src="src\images\pintor.png" alt="" />
       </div>
-      <div class="flex_item_50">
+      <div class="flex_item_50 ">
         <div class="margin_32">
           <p class="intro-bold-alt-regular font-size-4">Impresión</p>
+          <div class="division_section desk"></div>
           <p class="font-size-2">
             En el departamento de prensas se ofrece impresión <br>
-            Offset hasta 6 clores en linea más barniz
+            <b class="font-size-2">Offset hasta 6 clores en linea más barniz</b>
           </p>
           <p class="font-size-2">
             Se cuenta con las siguientes capacidades <br>
             y tecnología:
           </p>
 
-          <p class="font-size-2">
+          <p class="font-size-2 center">
 
             <br>- Velocidad de impresión hasta 15,000 pliegos/hora.
             <br>- Impresión de Alto lineaje.
@@ -122,36 +123,36 @@
       <p class="intro-bold-alt-regular font-size-5 margin_32">
         Nuestros productos
       </p>
-      <div class="division_section "></div>
+      <div class="division_section desk"></div>
       <div class="flex column flex_max_grow text_align_center flex_center flex_grow_1">
         <div class="products">
           <p class="intro-bold-alt-regular font-size-3 margin_0">Empaques</p>
-          <p class="intro-bold-alt-regular font-size-2 margin_0">(impresión en cajas y bolsas)</p>
-          <div class="division_section "></div>
+          <p class="intro-bold-alt-regular font-size-2 ">(impresión en cajas y bolsas)</p>
+          <div class="division_section desk"></div>
           <p class="intro-bold-alt-regular font-size-3 margin_0">Etiquetas</p>
-          <p class="intro-bold-alt-regular font-size-2 margin_0">(papel couché y adhesivo).</p>
-          <div class="division_section "></div>
+          <p class="intro-bold-alt-regular font-size-2 ">(papel couché y adhesivo).</p>
+          <div class="division_section desk"></div>
           <p class="intro-bold-alt-regular font-size-3 margin_0">Papelera Empresarial.</p>
-          <p class="intro-bold-alt-regular font-size-2 margin_0">
+          <p class="intro-bold-alt-regular font-size-2 ">
             (Hojas membretadas, tarjetas de presentación, sobres, folders,
             Recibos, Notas, Documentos Fiscales).
           </p>
-          <div class="division_section "></div>
+          <div class="division_section desk"></div>
           <p class="intro-bold-alt-regular font-size-3 margin_0">Diseño editorial.</p>
-          <p class="intro-bold-alt-regular font-size-2 margin_0">(Libros, revistas, folletos, libretas).</p>
-          <div class="division_section "></div>
+          <p class="intro-bold-alt-regular font-size-2 ">(Libros, revistas, folletos, libretas).</p>
+          <div class="division_section desk"></div>
           <p class=" intro-bold-alt-regular font-size-3 intro-bold-alt-regular font-size-3 margin_0">Producción
             publicitaria.</p>
-          <p class="intro-bold-alt-regular font-size-2 margin_0">
+          <p class="intro-bold-alt-regular font-size-2 ">
             ( dipticos, tripticos, cuadripticos, flyers, volantes, folletos,
             tarjetas publicitarias, separadores).
           </p>
-          <div class="division_section "></div>
-          <p class="intro-bold-alt-regular font-size-3 margin_0">
+          <div class="division_section desk"></div>
+          <p class="intro-bold-alt-regular font-size-3 ">
             Impresión de placa para offset.
           </p>
-          <div class="division_section "></div>
-          <p class="intro-bold-alt-regular font-size-3 margin_0">
+          <div class="division_section desk"></div>
+          <p class="intro-bold-alt-regular font-size-3 ">
             Impresión de etiqueta en tela. (nylon)
           </p>
         </div>
@@ -168,7 +169,7 @@
         <img src="src\images\puntos pag web press.png" alt="">
       </div>
       <div class="text_align_center">
-        <p class="intro-bold-alt-regular font-size-5">Principales Cientes</p>
+        <p class="intro-bold-alt-regular font-size-5">Principales Clientes</p>
         <img class="img-100" src="src\images\marcas.png" alt="">
       </div>
       <div>

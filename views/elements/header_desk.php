@@ -1,7 +1,4 @@
 <div class="menu">
-  <div class="p-abs">
-    <img class="" src="src\images\img-logo.png" alt="">
-  </div>
   <div class="container flex align_nav f-wrap width center p-rel">
     <a href="index.php"><img src="src\images\logo.png" alt="" /></a>
     <ul class="nav">
